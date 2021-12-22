@@ -1,0 +1,518 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputeArea",
+            "request": "launch",
+            "mainClass": "work1.ComputeArea",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputeAreaWithConsoleInput",
+            "request": "launch",
+            "mainClass": "work1.ComputeAreaWithConsoleInput",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputeAreaWithConstant",
+            "request": "launch",
+            "mainClass": "work1.ComputeAreaWithConstant",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputeAverage",
+            "request": "launch",
+            "mainClass": "work1.ComputeAverage",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputeChange",
+            "request": "launch",
+            "mainClass": "work1.ComputeChange",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputeExpression",
+            "request": "launch",
+            "mainClass": "work1.ComputeExpression",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComputeLoan",
+            "request": "launch",
+            "mainClass": "work1.ComputeLoan",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch DisplayTime",
+            "request": "launch",
+            "mainClass": "work1.DisplayTime",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch FahrenheitToCelsius",
+            "request": "launch",
+            "mainClass": "work1.FahrenheitToCelsius",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch SalesTax",
+            "request": "launch",
+            "mainClass": "work1.SalesTax",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowCurrenrTime",
+            "request": "launch",
+            "mainClass": "work1.ShowCurrenrTime",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowLogicErrors",
+            "request": "launch",
+            "mainClass": "work1.ShowLogicErrors",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowRuntimeErrors",
+            "request": "launch",
+            "mainClass": "work1.ShowRuntimeErrors",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch ShowSyntaxErrors",
+            "request": "launch",
+            "mainClass": "work1.ShowSyntaxErrors",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Welcome",
+            "request": "launch",
+            "mainClass": "work1.Welcome",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch WelcomeWithThreeMessages",
+            "request": "launch",
+            "mainClass": "work1.WelcomeWithThreeMessages",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code3_15",
+            "request": "launch",
+            "mainClass": "work2.Code3_15",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code3_19",
+            "request": "launch",
+            "mainClass": "work2.Code3_19",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code3_21",
+            "request": "launch",
+            "mainClass": "work2.Code3_21",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code3_22",
+            "request": "launch",
+            "mainClass": "work2.Code3_22",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code3_23",
+            "request": "launch",
+            "mainClass": "work2.Code3_23",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code3_24",
+            "request": "launch",
+            "mainClass": "work2.Code3_24",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code3_27",
+            "request": "launch",
+            "mainClass": "work2.Code3_27",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code3_28",
+            "request": "launch",
+            "mainClass": "work2.Code3_28",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code3_29",
+            "request": "launch",
+            "mainClass": "work2.Code3_29",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code3_4",
+            "request": "launch",
+            "mainClass": "work2.Code3_4",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code3_9",
+            "request": "launch",
+            "mainClass": "work2.Code3_9",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_17",
+            "request": "launch",
+            "mainClass": "work2.Code5_17",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_19",
+            "request": "launch",
+            "mainClass": "work2.Code5_19",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_21",
+            "request": "launch",
+            "mainClass": "work2.Code5_21",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_22",
+            "request": "launch",
+            "mainClass": "work2.Code5_22",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_25",
+            "request": "launch",
+            "mainClass": "work2.Code5_25",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_26",
+            "request": "launch",
+            "mainClass": "work2.Code5_26",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_27",
+            "request": "launch",
+            "mainClass": "work2.Code5_27",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_28",
+            "request": "launch",
+            "mainClass": "work2.Code5_28",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_29",
+            "request": "launch",
+            "mainClass": "work2.Code5_29",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_32",
+            "request": "launch",
+            "mainClass": "work2.Code5_32",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_33",
+            "request": "launch",
+            "mainClass": "work2.Code5_33",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_36",
+            "request": "launch",
+            "mainClass": "work2.Code5_36",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_37",
+            "request": "launch",
+            "mainClass": "work2.Code5_37",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_38",
+            "request": "launch",
+            "mainClass": "work2.Code5_38",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_45",
+            "request": "launch",
+            "mainClass": "work2.Code5_45",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code5_7",
+            "request": "launch",
+            "mainClass": "work2.Code5_7",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code7_34",
+            "request": "launch",
+            "mainClass": "work3.Code7_34",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code8_11",
+            "request": "launch",
+            "mainClass": "work3.Code8_11",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch Code8_14",
+            "request": "launch",
+            "mainClass": "work3.Code8_14",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch AlternativeCircle",
+            "request": "launch",
+            "mainClass": "work4.AlternativeCircle",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestCircle",
+            "request": "launch",
+            "mainClass": "work4.TestCircle",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestCircleWithPrivateDataFields",
+            "request": "launch",
+            "mainClass": "work4.TestCircleWithPrivateDataFields",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestCircleWithStaticMembers",
+            "request": "launch",
+            "mainClass": "work4.TestCircleWithStaticMembers",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestPassObject",
+            "request": "launch",
+            "mainClass": "work4.TestPassObject",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestPoint2D",
+            "request": "launch",
+            "mainClass": "work4.TestPoint2D",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestTV",
+            "request": "launch",
+            "mainClass": "work4.TestTV",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch TotalArea",
+            "request": "launch",
+            "mainClass": "work4.TotalArea",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch work9_10",
+            "request": "launch",
+            "mainClass": "work5.work9_10",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch work9_11",
+            "request": "launch",
+            "mainClass": "work5.work9_11",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch work9_3",
+            "request": "launch",
+            "mainClass": "work5.work9_3",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch work9_4",
+            "request": "launch",
+            "mainClass": "work5.work9_4",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch work9_5",
+            "request": "launch",
+            "mainClass": "work5.work9_5",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch work9_6",
+            "request": "launch",
+            "mainClass": "work5.work9_6",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch CastingDemo",
+            "request": "launch",
+            "mainClass": "work6.CastingDemo",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch DistinctNumbers",
+            "request": "launch",
+            "mainClass": "work6.DistinctNumbers",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch DynamicBindingDemo",
+            "request": "launch",
+            "mainClass": "work6.DynamicBindingDemo",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch PolymorphismDemo",
+            "request": "launch",
+            "mainClass": "work6.PolymorphismDemo",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestArrayList",
+            "request": "launch",
+            "mainClass": "work6.TestArrayList",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestCircleRectangle",
+            "request": "launch",
+            "mainClass": "work6.TestCircleRectangle",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch RepeatAddtionQuiz",
+            "request": "launch",
+            "mainClass": "work7.RepeatAddtionQuiz",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestAccout",
+            "request": "launch",
+            "mainClass": "work7.TestAccout",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch work11_17",
+            "request": "launch",
+            "mainClass": "work7.work11_17",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch work11_19",
+            "request": "launch",
+            "mainClass": "work7.work11_19",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch BookInfo",
+            "request": "launch",
+            "mainClass": "work8.BookInfo",
+            "projectName": "Code"
+        },
+        {
+            "type": "java",
+            "name": "Launch InputStudent",
+            "request": "launch",
+            "mainClass": "work8.InputStudent",
+            "projectName": "Code"
+        }
+    ]
+}
